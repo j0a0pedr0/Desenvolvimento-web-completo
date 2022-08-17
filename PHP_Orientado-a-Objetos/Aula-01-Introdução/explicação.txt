@@ -1,0 +1,23 @@
+Orientação a objetos no php ou OOP
+
+    php prossedural
+
+    define();
+    $variavel
+    func();
+
+    Pessoa
+    {
+        //Atributos do objeto Pessoa(como fossem variaveis)
+        nome
+        idade
+        peso
+
+        //um objeto pode ter açoes ou funcoes, Aqui na 
+        Orientação a objeto chamamos de métodos
+        Crescer();
+        Comer();
+
+    }
+
+    

@@ -1,0 +1,19 @@
+<rss>
+    <informacoes>
+        <item>
+            <title>João Pedro</title>
+            <title>Guilherme</title>
+            <title>Maria</title>
+            <idade>24</idade>
+        </item>
+    </informacoes>
+
+    <informacoes2>
+        <item>
+            <nome>Guilherme</nome>
+            <idade>28</idade>
+        </item>
+    </informacoes2>
+
+
+</rss>
